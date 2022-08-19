@@ -1,0 +1,40 @@
+.dark{
+    position: fixed;
+    width:100%;
+    height: 101%;
+    background-color: rgba(0,0,0,0.8);
+    z-index: 999;
+}
+
+.dark_inside{
+    width:100%;
+    max-width: 600px;
+    min-height: 180px;
+    background-color: white;
+    border:2px solid orange;
+    margin: auto;
+    color: black;
+}
+
+/* .dark_inside img{
+} */
+
+#info{
+    padding: 0%;
+}
+
+.movie .opening {
+    display: none;
+  }
+  
+  .active .opening {
+    display: block;
+  }
+
+   .movieBtn .opening {
+    display: none;
+  }
+  
+  .movieBtn .opening {
+    display: block;
+  }

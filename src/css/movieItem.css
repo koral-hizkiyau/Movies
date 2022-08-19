@@ -1,0 +1,30 @@
+#movieImg{
+    margin: auto;
+    display: flex;
+    margin-bottom: 10px;
+    
+    
+}
+#movieImgDark{
+    margin: auto;
+    display: flex;
+    margin-bottom: 10px;
+    float: left;
+}
+#movieOverView{
+    margin: auto;
+    display: flex;
+}
+
+#movieButton{
+    margin: auto;
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#info{
+    /* margin: auto;
+    justify-content: center;
+    align-items: center; */
+}
